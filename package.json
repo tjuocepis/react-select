@@ -26,7 +26,7 @@
     "@changesets/cli": "^2.0.3",
     "@changesets/get-github-info": "^0.2.1",
     "@emotion/cache": "^10.0.9",
-    "@emotion/core": "^10.0.9",
+    "@emotion/core": "11.0.0-next.10",
     "@emotion/css": "^10.0.9",
     "@preconstruct/cli": "^1.0.0",
     "@testing-library/dom": "7.0.4",
