@@ -2,8 +2,8 @@
   "name": "wnd-react-select",
   "version": "3.1.0",
   "description": "A Select control built with and for ReactJS",
-  "main": "dist/react-select.cjs.js",
-  "module": "dist/react-select.esm.js",
+  "main": "dist/wnd-react-select.cjs.js",
+  "module": "dist/wnd-react-select.esm.js",
   "sideEffects": false,
   "author": "Jed Watson",
   "license": "MIT",
@@ -60,8 +60,8 @@
     ]
   },
   "browser": {
-    "./dist/react-select.cjs.js": "./dist/react-select.browser.cjs.js",
-    "./dist/react-select.esm.js": "./dist/react-select.browser.esm.js"
+    "./dist/wnd-react-select.cjs.js": "./dist/wnd-react-select.browser.cjs.js",
+    "./dist/wnd-react-select.esm.js": "./dist/wnd-react-select.browser.esm.js"
   },
   "publishConfig": {
     "registry": "https://npm.wonderlic.com/"
