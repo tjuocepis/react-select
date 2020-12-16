@@ -1,6 +1,6 @@
 {
   "name": "wnd-react-select",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/wnd-react-select.cjs.js",
   "module": "dist/wnd-react-select.esm.js",
