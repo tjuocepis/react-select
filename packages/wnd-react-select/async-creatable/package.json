@@ -1,0 +1,11 @@
+{
+  "main": "dist/wnd-react-select.cjs.js",
+  "module": "dist/wnd-react-select.esm.js",
+  "browser": {
+    "./dist/wnd-react-select.cjs.js": "./dist/wnd-react-select.browser.cjs.js",
+    "./dist/wnd-react-select.esm.js": "./dist/wnd-react-select.browser.esm.js"
+  },
+  "preconstruct": {
+    "source": "../src/AsyncCreatable"
+  }
+}
